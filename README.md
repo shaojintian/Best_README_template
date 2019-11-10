@@ -17,8 +17,8 @@ ProjectName and Description
 <br />
 
 <p align="center">
-  <a href="https://github.com/shaojintian/heyroom/">
-    <img src="static/logos/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/shaojintian/Best_README_template/">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">"完美的"README模板</h3>
